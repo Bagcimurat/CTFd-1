@@ -235,7 +235,7 @@ COUNTRIES_LIST = [
     ("TT", "Trinidad & Tobago"),
     ("TA", "Tristan da Cunha"),
     ("TN", "Tunisia"),
-    ("TR", "Turkey"),
+    ("TR", "Turkiye"),
     ("TM", "Turkmenistan"),
     ("TC", "Turks & Caicos Islands"),
     ("TV", "Tuvalu"),
